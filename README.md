@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pandammonium
 - 👀 I’m interested in writing fiction and writing code
-- 🌱 I’m currently learning how to write a WordPress block theme
 <!---
+- 🌱 I’m currently learning how to write a WordPress block theme
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
